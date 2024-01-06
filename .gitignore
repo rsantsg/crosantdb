@@ -10,9 +10,3 @@ wrangler.toml
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
-*.sql
-delete.sql
-schema.sql
-SQLScripts 
-user.sql
-View.md
