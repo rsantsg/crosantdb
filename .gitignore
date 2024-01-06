@@ -1,0 +1,18 @@
+node_modules
+dist
+.wrangler
+.dev.vars
+.env.local
+
+
+# Change them to your taste:
+wrangler.toml
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+*.sql
+delete.sql
+schema.sql
+SQLScripts 
+user.sql
+View.md
